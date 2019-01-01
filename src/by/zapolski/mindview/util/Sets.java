@@ -1,4 +1,4 @@
-package by.zapolski.generics_gl15.holding;
+package by.zapolski.mindview.util;
 
 import java.util.HashSet;
 import java.util.Set;
