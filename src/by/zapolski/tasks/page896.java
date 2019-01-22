@@ -1,4 +1,4 @@
-package by.zapolski.concurrency.tasks;
+package by.zapolski.tasks;
 
 
 import java.util.concurrent.ExecutorService;

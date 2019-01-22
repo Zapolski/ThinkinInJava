@@ -4,9 +4,11 @@ import java.util.*;
 
 
 class MultiIterableClass<T> extends ArrayList<T>{
+
     public MultiIterableClass(Collection<T> c) {
         super(c);
     }
+
     public Iterable<T> reversed(){
         return new Iterable<T>() {
             @Override

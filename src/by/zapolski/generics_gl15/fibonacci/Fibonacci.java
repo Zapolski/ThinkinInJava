@@ -1,6 +1,6 @@
 package by.zapolski.generics_gl15.fibonacci;
 
-import by.zapolski.generics_gl15.util.Generator;
+import by.zapolski.util.Generator;
 
 public class Fibonacci implements Generator<Integer> {
     private int count = 0;

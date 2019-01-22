@@ -1,6 +1,6 @@
 package by.zapolski.generics_gl15.coffee;
 
-import by.zapolski.generics_gl15.util.Generator;
+import by.zapolski.util.Generator;
 
 import java.util.Iterator;
 import java.util.Random;

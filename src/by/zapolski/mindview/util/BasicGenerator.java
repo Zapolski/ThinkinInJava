@@ -1,6 +1,6 @@
 package by.zapolski.mindview.util;
 
-import by.zapolski.generics_gl15.util.Generator;
+import by.zapolski.util.Generator;
 
 public class BasicGenerator<T> implements Generator<T> {
     private Class<T> type;

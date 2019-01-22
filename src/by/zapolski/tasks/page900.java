@@ -1,10 +1,7 @@
-package by.zapolski.concurrency.tasks;
+package by.zapolski.tasks;
 
-
-import by.zapolski.concurrency.TaskWithResult;
 
 import java.util.ArrayList;
-import java.util.Random;
 import java.util.concurrent.*;
 
 class FibCall implements Callable<String> {

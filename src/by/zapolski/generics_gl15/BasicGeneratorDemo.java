@@ -1,6 +1,6 @@
 package by.zapolski.generics_gl15;
 
-import by.zapolski.generics_gl15.util.Generator;
+import by.zapolski.util.Generator;
 import by.zapolski.mindview.util.BasicGenerator;
 
 public class BasicGeneratorDemo {

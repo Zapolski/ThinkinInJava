@@ -3,7 +3,7 @@ package by.zapolski.generics_gl15;
 import by.zapolski.generics_gl15.coffee.Coffee;
 import by.zapolski.generics_gl15.coffee.CoffeeGenerator;
 import by.zapolski.generics_gl15.fibonacci.Fibonacci;
-import by.zapolski.generics_gl15.util.Generator;
+import by.zapolski.util.Generator;
 
 import java.util.ArrayList;
 import java.util.Collection;
